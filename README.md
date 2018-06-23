@@ -89,7 +89,7 @@ Partiendo del preámbulo y del conocimiento previo sobre la forma de trabajar de
 
 <img src=/media/gif/propuesta_sketch_01.gif alt=”primera_propuesta_de_sketch” width="50%" height="50%"">
 
-*primera propuesta de sketch antes de acercarnos al usuario*
+_primera propuesta de sketch antes de acercarnos al usuario_
 
 <img src=/media/gif/propuesta_sketch_02.gif alt=”segunda_propuesta_de_sketch” width="50%" height="50%">
 
@@ -102,7 +102,7 @@ Teniendo como base el sketch inicial, se realizó una adaptación tomando en cue
 
 _propuesta de sketch para escritorio despúes de acercarnos al usuario_
 
-<img src=/media/gif/sketch_mobile_v2.gif alt=”segunda_propuesta_de_sketch_mobile” width="50%" height="50%">
+<img src=/media/gif/sketch_mobile_v2.gif alt=”segunda_propuesta_de_sketch_mobile” height="50%">
 
 _propuesta de sketch para movil despúes de acercarnos al usuario_
 
