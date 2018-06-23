@@ -52,10 +52,11 @@ Se realizó una entrevista presencial con la TM de Laboratoria CDMX con el objet
 Una vez realizadas las encuestas y entrevistas, el siguiente paso fue analizar la información recabada, con la finalidad de detectar las necesidades a resolver y poder determinar los puntos e información clave a presentar en la interfaz.
 
 Entre los datos más relevantes que encontramos están el hecho de que los datos más relevantes para lxs TM son:
-        -   El número de estudiantes activas.
-        -   El avance general que tiene la generación en el LMS, destacando cuantas personas se encuentran debajo del porcentaje de avance mínimo recomendable.
 
-También detectamos que los Coaches consultan los datos de las alumnas frecuentemente para observar su avance en el LMS comparado con las dudas presentes en clase y  al final de los sprint para observar el avance, las estadísticas de asistencia y los niveles de las alumnas  para poder evaluarlas.
+* El número de estudiantes activas.
+* El avance general que tiene la generación en el LMS, destacando cuantas personas se encuentran debajo del porcentaje de avance mínimo recomendable.
+
+También detectamos que lxs Coaches consultan los datos de las alumnas frecuentemente para observar su avance en el LMS comparado con las dudas presentes en clase y  al final de los sprint para observar el avance, las estadísticas de asistencia y los niveles de las alumnas para poder evaluarlas.
 
 ## Definición de proto-personas
 
@@ -63,8 +64,8 @@ Después de recabar y analizar la información determinamos que nuestro dashboar
 
 Para tener más claro estos dos perfiles, optamos por la generación de dos proto-personas que nos permitieran ver de manera rápida las características, metas y puntos de dolor de cada tipo de usuario, estas dos proto-personas se muestran a continuación:
 
-<img src=”liga” alt=”proto-persona 1”>
-<img src=”liga” alt=”proto-persona 2”>
+<img src=/media/jpg/proto_persona_1.jpg alt=”proto_persona_1” width="50%" height="50%">
+<img src=/media/jpg/proto_persona_2.jpg alt=”proto_persona_2” width="50%" height="50%">
 
 ## Definición de requerimientos
 
