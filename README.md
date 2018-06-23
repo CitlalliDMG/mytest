@@ -84,7 +84,9 @@ Con toda la información disponible hasta el momento, generamos una lista de req
 - Todos los datos y gráficas mostrados deberán ser accionables (aportar información que ayude a la toma de decisiones)
 
 ## Proceso de sketching
-* Sketch inicial
+
+**Sketch inicial**
+
 Partiendo del preámbulo y del conocimiento previo sobre la forma de trabajar de Laboratoria, se elaboró un sketch de lo que para nosotras sería lo más importante para una TM. 
 
 <img src=/media/gif/propuesta_sketch_01.gif alt=”primera_propuesta_de_sketch” width="50%" height="50%"">
@@ -95,18 +97,20 @@ _primera propuesta de sketch antes de acercarnos al usuario_
 
 _segunda propuesta de sketch antes de acercarnos al usuario_
 
-* Adaptación del sketch
+**Adaptación del sketch**
+
 Teniendo como base el sketch inicial, se realizó una adaptación tomando en cuenta la información obtenida mediante la entrevista y las encuestas.
 
 <img src=/media/gif/sketch_desktop_v2.gif alt=”segunda_propuesta_de_sketch_desktop” width="50%" height="50%">
 
 _propuesta de sketch para escritorio despúes de acercarnos al usuario_
 
-<img src=/media/gif/sketch_mobile_v2.gif alt=”segunda_propuesta_de_sketch_mobile” height="50%">
+<img src=/media/gif/sketch_mobile_v2.gif alt=”segunda_propuesta_de_sketch_mobile” height="25%">
 
 _propuesta de sketch para movil despúes de acercarnos al usuario_
 
-* Testeo del sketch
+**Testeo del sketch**
+
 Esta adaptación del sketch se lleva a prueba con dos usuarios potenciales para obtener su feedback y detectar puntos a mejorar.
 
 Entre las observaciones más importantes que nos hicieron esta el buscar una alternativa para la palabra _filtrar_, ya que esta genera confusiones y no dice exactamente al usuario para que sirve el botón donde se usa.
