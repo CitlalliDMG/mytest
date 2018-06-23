@@ -90,6 +90,7 @@ Con toda la información disponible hasta el momento, generamos una lista de req
 Partiendo del preámbulo y del conocimiento previo sobre la forma de trabajar de Laboratoria, se elaboró un sketch de lo que para nosotras sería lo más importante para una TM. 
 
 <img src=/media/gif/propuesta_sketch_01.gif alt=”primera_propuesta_de_sketch” width="50%" height="50%"">
+<img src=/media/gif/propuesta_sketch_01.gif alt=”segunda_propuesta_de_sketch” width="50%" height="50%">
 
 _primera propuesta de sketch antes de acercarnos al usuario_
 
@@ -105,7 +106,7 @@ Teniendo como base el sketch inicial, se realizó una adaptación tomando en cue
 
 _propuesta de sketch para escritorio despúes de acercarnos al usuario_
 
-<img src=/media/gif/sketch_mobile_v2.gif alt=”segunda_propuesta_de_sketch_mobile” height="25%">
+<img src=/media/gif/sketch_mobile_v2.gif alt=”segunda_propuesta_de_sketch_mobile” width="25%" height="25%">
 
 _propuesta de sketch para movil despúes de acercarnos al usuario_
 
