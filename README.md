@@ -90,10 +90,10 @@ _segunda propuesta de sketch antes de acercarnos al usuario_
 * Adaptación del sketch
 Teniendo como base el sketch inicial, se realizó una adaptación tomando en cuenta la información obtenida mediante la entrevista y las encuestas.
 
-<img src=”media/gif/sketch_desktop_v2.gif” alt=”primera_propuesta_de_sketch”>
+<img src=”/media/gif/sketch_desktop_v2.gif” alt=”primera_propuesta_de_sketch”>
 _propuesta de sketch para escritorio despúes de acercarnos al usuario_
 
-<img src=”media/gif/sketch_mobile_v2.gif” alt=”primera_propuesta_de_sketch”>
+<img src=”/media/gif/sketch_mobile_v2.gif” alt=”primera_propuesta_de_sketch”>
 _propuesta de sketch para movil despúes de acercarnos al usuario_
 
 * Testeo del sketch
