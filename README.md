@@ -93,8 +93,13 @@ Con toda la información disponible hasta el momento, generamos una lista de req
 
 **Sketch inicial**
 
-Partiendo del preámbulo y del conocimiento previo sobre la forma de trabajar de Laboratoria, se elaboró un sketch de lo que para nosotras sería lo más importante para una TM. 
+Partiendo del preámbulo y del conocimiento previo sobre la forma de trabajar de Laboratoria, se escribio un pseudocódigo que nos dijera las acciones básicas que deberán ocurrir en nuestra plataforma, una vez realizada esta actividad se tradujeron los pasos del pseudocódigo a un diagrama de flujo.
 
+<img src=/media/png/Data_Dashboard-Diagrama_de_flujo_1.png alt=”segunda_propuesta_de_sketch” width="50%" height="50%">
+
+_Diagrama de flujo de las acciones básicas_
+
+Siguiendo este diagrama de flujo, se elaboró un sketch de lo que para nosotras sería lo más importante para una TM. 
 
 <img src=/media/gif/propuesta_sketch_01.gif alt=”segunda_propuesta_de_sketch” width="50%" height="50%">
 
