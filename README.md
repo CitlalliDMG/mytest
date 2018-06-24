@@ -122,6 +122,12 @@ Esta adaptación del sketch se lleva a prueba con dos usuarios potenciales para 
 
 Entre las observaciones más importantes que nos hicieron esta el buscar una alternativa para la palabra _filtrar_, ya que esta genera confusiones y no dice exactamente al usuario para que sirve el botón donde se usa.
 
+**Elaboración de wireframes**
+
+Como siguiente paso para el desarrollo de la interfaz, desarrollamos los wireframes de nuestra versión para desktop, agregandole el feedback recibido durante el testeo del sketch. Este wireframe se subio a la aplicación de marvel para poder hacer una nueva ronda de testeo con nuestros usuarios.
+
+El wireframe de la versión desktop puede consultarse en https://marvelapp.com/949ci11
+
 ## Diseño de la interfaz de usuario
 * Selección de paleta de colores
 * Selección de tipografía
