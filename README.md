@@ -64,8 +64,13 @@ Después de recabar y analizar la información determinamos que nuestro dashboar
 
 Para tener más claro estos dos perfiles, optamos por la generación de dos proto-personas que nos permitieran ver de manera rápida las características, metas y puntos de dolor de cada tipo de usuario, estas dos proto-personas se muestran a continuación:
 
-<img src=/media/jpg/proto_persona_1.jpg alt=”proto_persona_1” width="50%" height="50%">
-<img src=/media/jpg/proto_persona_2.jpg alt=”proto_persona_2” width="50%" height="50%">
+<img src=/media/jpg/proto_persona_1.jpg alt=”proto_persona_1” width="50%" height="50%"> 
+
+_Proto-persona del usuario principal_
+
+<img src=/media/jpg/proto_persona_2.jpg alt=”proto_persona_2” width="50%" height="50%"> 
+
+_Proto-persona del usuario secundario_
 
 ## Definición de requerimientos
 
